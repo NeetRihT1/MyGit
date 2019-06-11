@@ -3,3 +3,6 @@ Git is free software.
 It is my Git.
 Git is a distributed version control system.
 Git is non-free software.
+
+add a MIT License , the Respority all file is openSource to MIT License...
+
