@@ -7,6 +7,6 @@ Git is non-free software.
 add a MIT License , the Respority all file is openSource to MIT License...
 
 
-the firsr modify..
+the first modify..
 
 the second modify..
